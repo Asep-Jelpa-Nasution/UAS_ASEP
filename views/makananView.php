@@ -41,7 +41,7 @@
     <div class="container">
         <h2 class="text-center mb-4">Data Makanan</h2>
         <div class="table-container">
-            <a href="?page=makananAdd" class="btn btn-primary mb-3">[+] Tambah Data Baru</a>
+            <a href="?page=makananAdd" class="btn btn-primary mb-3 float-start">[+] Tambah Data Baru</a>
             <table id="example" class="table table-striped table-bordered">
                 <thead class="table-dark">
                     <tr>
@@ -71,7 +71,7 @@
                     <?php } ?>
                 </tbody>
             </table>
-            <p class="mt-3"><strong>Total: <?= mysqli_num_rows($sql); ?></strong></p>
+            <p class="d-flex justify-content-start mt-3"><strong>Total: <?= mysqli_num_rows($sql); ?></strong></p>
         </div>
     </div>
 
