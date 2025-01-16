@@ -55,7 +55,14 @@
             padding: 10px;
             background-color: #8B4513;
             color: #fff;
+            text-shadow: #fff;
             border-radius: 8px;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 0.9rem;
+            color: #fff;
         }
     </style>
 </head>

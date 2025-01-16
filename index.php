@@ -25,7 +25,7 @@ require "includes/config.php";
     </div>
     <footer style="margin-top: 3em; text-align: center;">
         <hr>
-        <?= date("Y") ?> Created by: Asep Jelpa Nasution
+        <p>&copy; Created By <span class="fw-bold">Asep Jelpa Nasution</span></p>
     </footer>
 </body>
 
