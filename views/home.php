@@ -106,7 +106,7 @@ require "includes/config.php";
         <div class="hero-text">
             <h1>KAMI MENYAJIKAN MAKANAN TRADISIONAL</h1>
             <p>
-                "Jelajahi dunia rasa di Berbagai Kuliner. Dari hidangan tradisional hingga kreasi modern, kami hadirkan beragam pilihan kuliner untuk memanjakan selera Anda. Temukan restoran terbaik, resep andalan, dan ulasan kuliner yang informatif."
+                "Jelajahi dunia rasa di Berbagai Kuliner. Rasakan pengalaman kuliner yang tak terlupakan dengan hidangan tradisional khas dari berbagai daerah di Indonesia. Setiap hidangan kami, disiapkan dengan cermat untuk menghadirkan cita rasa autentik yang akan memanjakan lidah Anda.
             </p>
             <p>Instagram.com/jelpa.en</p>
         </div>
